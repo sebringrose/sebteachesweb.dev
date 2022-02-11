@@ -1,0 +1,36 @@
+{
+  "name": "sebteachesweb.dev",
+  "version": "1.0.0",
+  "description": "Website for Seb's webdev lessons",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebringrose/sebteachesweb.dev.git"
+  },
+  "keywords": [
+    "web",
+    "development",
+    "lessons",
+    "seb",
+    "ringrose"
+  ],
+  "author": "Seb Ringrose <sebringrose@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebringrose/sebteachesweb.dev/issues"
+  },
+  "homepage": "https://github.com/sebringrose/sebteachesweb.dev#readme",
+  "dependencies": {
+    "@babel/core": "^7.17.2",
+    "@rollup/plugin-babel": "^5.3.0",
+    "babel-plugin-styled-components": "^2.0.2",
+    "grommet": "^2.20.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "rollup": "^2.67.2",
+    "styled-components": "^5.3.3"
+  }
+}
